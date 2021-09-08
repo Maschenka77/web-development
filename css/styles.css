@@ -1,6 +1,30 @@
-div {
+.top-cont {
     background-color: #00ADB5;
+    height: 200px;
+    width: 200px;
+    padding: 100px;
+    border: 10px solid;
+    border-color: bisque;
 
+}
+
+.middle-cont {
+
+    width: 200px;
+    height: 200px;
+    margin-left: 420px;
+    background-color: crimson;
+    border: 20px dashed;
+    border-color: black;
+}
+
+.bottom-cont {
+    width: 200px;
+    height: 200px;
+    background-color: darkslategrey;
+    margin-left: 660px;
+    border: 30px dotted;
+    border-color: crimson;
 }
 
 h1 {
