@@ -1,8 +1,8 @@
 /*-----------------------------------------------------------Class Selectors--------------------------------------------------*/
 
 .top-cont {
-    text-align: center;
     background-color: bisque;
+    position: relative;
 
 
 }
