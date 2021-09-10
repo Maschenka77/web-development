@@ -8,11 +8,13 @@
 }
 
 .middle-cont {
+    text-align: center;
     background-color: bisque  ;
 }
 
 .bottom-cont {
-    background-color: #00001a;
+    background-color: lightblue;
+    height: 20px;
 }
 
 .paragraphs_1 {
@@ -34,13 +36,26 @@
 
 
 body {
+    text-align: center;
     margin: 0;
     background-color: bisque;
+    color: #00001a;
+    font-family: 'Merriweather', serif;
 }
 
 h1 {
     margin: 0;
+    font-family: 'Sacramento', cursive;
 
+
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
 
 }
 
